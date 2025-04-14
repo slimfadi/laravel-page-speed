@@ -1,5 +1,6 @@
 {
     "name": "renatomarinho/laravel-page-speed",
+    "type": "wordpress-theme",
     "description": "Laravel Page Speed",
     "keywords": [
         "laravel",
